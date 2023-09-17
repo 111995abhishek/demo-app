@@ -10,7 +10,7 @@ function App() {
     <>
     <h1>New React Project</h1>
     <h3>React is used create a Spa application using the component based approach</h3>
-    <button>save</button>
+    <button>save and reload</button>
     <div>
       <h3>React uses virtual dom for rendering
       </h3>
