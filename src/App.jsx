@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <h1>New React Project</h1>
+    <h3>React is used create a Spa application using the component based approach</h3>
     </>
   )
 }
